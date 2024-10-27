@@ -8,6 +8,10 @@ body {
     background-color: #d9dcd6;
 }
 
+header {
+    background-color: #2a607c;
+}
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, 'sans-serif';
@@ -110,6 +114,11 @@ p {
     color: #ffffff;
 }
 
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/*
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -123,7 +132,7 @@ p {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+}*/
 
 .benefit-lead img {
     display: block;
@@ -210,4 +219,3 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-*/
